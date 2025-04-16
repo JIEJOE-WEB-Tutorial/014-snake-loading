@@ -1,6 +1,6 @@
 # 14 - 小蛇加载效果
-<a href="https://www.bilibili.com/video/BV1cz42117pk">
-<img src="https://i0.hdslb.com/bfs/archive/8f054d431923fc7505c735043432652a1e3da91e.jpg" width="70%">
+<a href="https://www.bilibili.com/video/BV1MjoMYWEfY">
+<img src="https://i1.hdslb.com/bfs/archive/102e5bf729bf1e69e58ad6cdbeb881429ce7e9bf.jpg" width="70%">
 </a>
 
 **👆👆点击跳转: Bilibili📺教程视频链接**
